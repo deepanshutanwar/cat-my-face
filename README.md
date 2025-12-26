@@ -10,11 +10,11 @@ This project demonstrates **real-time computer vision on edge hardware** and han
 ## Project Structure
 
 Cat-My-Face/
-├── haarcascades/ # Pretrained Haar Cascade classifiers for face detection
-├── input_cats/ # 4x4 cat sprite image used for overlays
-├── presentation/ # Presentation document for class/demo
-├── raspi_code/ # Python code to run on Raspberry Pi
-└── README.md
+haarcascades/ # Pretrained Haar Cascade classifiers for face detection
+input_cats/ # 4x4 cat sprite image used for overlays
+presentation/ # Presentation document for class/demo
+raspi_code/ # Python code to run on Raspberry Pi
+README.md
 
 ---
 
